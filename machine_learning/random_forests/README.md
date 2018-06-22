@@ -1,4 +1,4 @@
-'''
+```bash
 $ sudo apt-get install python3-pip
 $ sudo pip3 install virtualenv 
 $ virtualenv venv3
@@ -14,4 +14,4 @@ $ pip install sklearn
 
 $ pip install jupyter
 $ jupyter notebook
-'''
+```
